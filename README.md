@@ -14,6 +14,10 @@ This project is a simple and efficient Password Generator built using HTML, CSS,
 
 ![Screenshot 2024-08-11 001600](https://github.com/user-attachments/assets/09fcc28d-62ed-4122-82bb-1d0e7f668c0a)
 
+## Live Demo
+
+- [Live Demo](https://techwarriorxofficial.github.io/Password-Generator/) - Try out the live version of the Password Generator.
+
 ## How to Use
 
 1. **Open the `index.html` file in your browser.**
